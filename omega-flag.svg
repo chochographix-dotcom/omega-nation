@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#0B1F3A"/>
+  <rect y="200" width="900" height="200" fill="#FFFFFF"/>
+  <rect y="400" width="900" height="200" fill="#D4AF37"/>
+
+  <circle cx="450" cy="300" r="105" fill="#0B1F3A" stroke="#D4AF37" stroke-width="10"/>
+
+  <text x="450" y="350"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="150"
+        font-weight="bold"
+        fill="#FFFFFF">Ω</text>
+</svg>
