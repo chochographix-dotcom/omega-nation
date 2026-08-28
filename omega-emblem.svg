@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+
+  <circle cx="300" cy="300" r="270"
+          fill="#0B1F3A"
+          stroke="#D4AF37"
+          stroke-width="18"/>
+
+  <circle cx="300" cy="300" r="210"
+          fill="none"
+          stroke="#FFFFFF"
+          stroke-width="8"/>
+
+  <text x="300" y="365"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="190"
+        font-weight="bold"
+        fill="#D4AF37">Ω</text>
+
+  <text x="300" y="115"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="38"
+        font-weight="bold"
+        fill="#FFFFFF">
+        REPUBLIC OF OMEGA
+  </text>
+
+  <text x="300" y="510"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="28"
+        font-style="italic"
+        fill="#FFFFFF">
+        TOGETHER WE GROW
+  </text>
+
+</svg>
